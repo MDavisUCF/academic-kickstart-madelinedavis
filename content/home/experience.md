@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   location = "Orlando, FL"
   date_start = "August 2016"
   date_end = "December 2016"
-  description = "Developed the layout and/or design for marketing materials, web, packaging art, and other various projects"
+  description = "Developed the layout and/or design for marketing materials, web, packaging art, and other various projects
   """
 
 +++
