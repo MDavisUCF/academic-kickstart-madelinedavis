@@ -24,13 +24,13 @@ date_format = "Jan 2006"
   location = "Orlando, FL"
   date_start = "August 2018"
   date_end = ""
-  description = "Courses Taught:
+  description = """Courses Taught:
 
   * Digital Imaging Fundamentals
   * Digital Video Fundamentals
   * Fundamentals of Interactive Design
   * Fundamentals of Game Art
-  * Portfolio Development"
+  * Portfolio Development
   """
 
 [[experience]]
@@ -40,13 +40,13 @@ date_format = "Jan 2006"
   location = "Orlando, FL"
   date_start = "January 2017"
   date_end = "May 2018"
-  description= "Courses Assisted:
+  description= """Courses Assisted:
 
   * Fundamentals of Interactive Design
   * Digital Media Production I
   * Internet Interaction
   * Digital Imaging Fundamentals
-  * Evolution of Video Games"
+  * Evolution of Video Games
   """
 
   [[experience]]
