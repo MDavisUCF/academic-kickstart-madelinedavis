@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "pen-nib"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Adobe Illustrator"
   # description = "90%"
   
@@ -43,8 +43,8 @@ subtitle = ""
   name = "Git"
 
   [[feature]]
-  icon = "code"
-  icon_pack = "fab"
+  icon = "code-branch"
+  icon_pack = "fas"
   name = "Visual Studio Code"
 
 # Uncomment to use emoji icons.
