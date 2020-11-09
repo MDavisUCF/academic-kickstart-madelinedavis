@@ -19,7 +19,8 @@ bio: My research interest is in the representation of mental health in video gam
 interests:
 - Video Games
 - Interactive Media
-- Mental Health
+- Gamer Identity
+- Embodied Interaction
 
 education:
   courses:
