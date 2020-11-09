@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD in Texts & Technology
     institution: University of Central Florida
-    year: 2024
+    year: Current
   - course: MA in Digital Media
     institution: University of Central Florida
     year: 2018
