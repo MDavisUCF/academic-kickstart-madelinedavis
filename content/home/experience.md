@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "University of Central Florida"
   company_url = ""
   location = "Orlando, FL"
-  date_start = "August 2018"
+  date_start = "2018-08-01"
   date_end = ""
   description = """Courses Taught:
 
@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   company = "University of Central Florida"
   company_url = ""
   location = "Orlando, FL"
-  date_start = "January 2017"
-  date_end = "May 2018"
+  date_start = "2017-01-01"
+  date_end = "2018-05-01"
   description= """Courses Assisted:
 
   * Fundamentals of Interactive Design
@@ -54,8 +54,8 @@ date_format = "Jan 2006"
   company = "Digimation"
   company_url = "https://digimation.com"
   location = "Lake Mary, FL"
-  date_start = "January 2017"
-  date_end = "August 2018"
+  date_start = "2017-01-01"
+  date_end = "2018-08-01"
   description = """Developed the layout and/or design for marketing materials, web, packaging art, and other various projects
   """
 
@@ -64,8 +64,8 @@ date_format = "Jan 2006"
   company = "University of Central FLorida"
   company_url = ""
   location = "Orlando, FL"
-  date_start = "August 2016"
-  date_end = "December 2016"
+  date_start = "2016-08-01"
+  date_end = "2016-12-01"
   description = """Developed the layout and/or design for marketing materials, web, packaging art, and other various projects"
   """
 
