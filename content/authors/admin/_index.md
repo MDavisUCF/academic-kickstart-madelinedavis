@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Madeline Davis
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Instructor and Texts & Technology PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Central Florida
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest is in the representation of mental health in video games.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Video Games
+- Interactive Media
+- Mental Health
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Texts & Technology
+    institution: University of Central Florida
+    year: 2024
+  - course: MA in Digital Media
+    institution: University of Central Florida
+    year: 2018
+  - course: BA in Studio Art
+    institution: Florida Atlantic University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  mailto: madeline.davis@ucf.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/MDavisUCF
+- icon: instagram
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://instagram.com/MDavisUCF
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Madeline Davis has been an instructor of Degital Media at the University of Central Florida since the Fall of 2018. Currently, she is pursuing her PhD in Texts & Technology at the University of Central Florida while still teaching. Her resaech involves how mental health is represented in video games and if that representation is hurting or helping the stigma surrounding menthal illess.
