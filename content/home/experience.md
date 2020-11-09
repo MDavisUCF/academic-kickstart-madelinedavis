@@ -25,13 +25,12 @@ date_format = "Jan 2006"
   date_start = "August 2018"
   date_end = ""
   description = "Courses Taught:
-  
+
   * Digital Imaging Fundamentals
   * Digital Video Fundamentals
   * Fundamentals of Interactive Design
   * Fundamentals of Game Art
-  * Portfolio Development
-  "
+  * Portfolio Development"
   """
 
 [[experience]]
@@ -47,8 +46,7 @@ date_format = "Jan 2006"
   * Digital Media Production I
   * Internet Interaction
   * Digital Imaging Fundamentals
-  * Evolution of Video Games
-  "
+  * Evolution of Video Games"
   """
 
   [[experience]]
