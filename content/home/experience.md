@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Orlando, FL"
   date_start = "August 2018"
-  # date_end = ""
+  date_end = ""
   description = "Courses Taught:
   
   * Digital Imaging Fundamentals
